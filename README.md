@@ -1,7 +1,7 @@
 # WiFi-MBus
 
 This project is ripoff from
-[MBusMqttLogger](https://github.com/roarfred/MBusMqttLogger]).
+[MBusMqttLogger](https://github.com/roarfred/MBusMqttLogger).
 I disabled everything except MBus although unused code is still
 here.
 
