@@ -23,6 +23,8 @@ So any wifi capable phone or tablet can be used as readout device,
 just view a list of available AP's. No client applications, no browsers,
 no web interface not even connecting to any AP is needed.
 
+It works with this [Hardware](https://github.com/emard/mbus-circuit).
+
 # BUGS
 
 There must be plenty. I've seen it crashed occasionaly and watchdog
